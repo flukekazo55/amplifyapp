@@ -1,31 +1,26 @@
-# Pokedex
+# Speedy Math  [![Build Status](https://travis-ci.org/pankajladhar/speedy-math.svg?branch=master)](https://travis-ci.org/pankajladhar/speedy-math)
 
-[![Travis](https://img.shields.io/travis/alik0211/pokedex/master.svg?style=flat-square)](https://travis-ci.com/alik0211/pokedex)
-[![Dependency Status](https://img.shields.io/david/alik0211/pokedex.svg?label=deps&style=flat-square)](https://david-dm.org/alik0211/pokedex)
-[![devDependency Status](https://img.shields.io/david/dev/alik0211/pokedex.svg?label=devDeps&style=flat-square)](https://david-dm.org/alik0211/pokedex?type=dev)
+An application which allows user (small kids) to practice basic **Mathematics** operations like :
+1. Addition
+1. Subtraction
+1. Multiply
+1. Comparision
 
-List of pokemons on the basis of React + Redux
+**This application has four levels.**
+1. Single level :  Operations on single digit
+1. Double level : Operations on dobule digits
+1. Triple level : Operations on triple digits
+1. Random level : Mixture of above all
 
-## Available Scripts
+## Features
+* Responsive nature
+* PWA (Progressive web app)
+    * Offline support
+    * install as app
 
-In the project directory, you can run:
+## Contributing
+Feel free to give feedback or raise issue. I'd love to have your helping hand on speedy-math ! See [CONTRIBUTING.md](https://github.com/pankajladhar/speedy-math/blob/master/CONTRIBUTING.md) for more information on how to get started.
 
-### `npm start`
+## License
+[MIT](https://github.com/pankajladhar/speedy-math/blob/master/LICENSE) Licensed. Copyright (c) [Pankaj Ladhar](mailto:ladharpankaj@gmail.com) 2018.
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
-
-## Related
-
-- [YouTube Meta](https://github.com/alik0211/youtube-meta) - Shows meta information about the video on YouTube
