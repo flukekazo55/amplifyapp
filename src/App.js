@@ -1,22 +1,25 @@
 import React from 'react';
-import logo from './logo.svg';
+import photo_teacher from './photo_teacher.jpg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
+        <h1>
+           Hello OS Subject
+        </h1>
+		<img src={photo_teacher} className="Photo-teacher" alt="photo_teacher" />
+		<p>
+           Teacher : Peerasak Pianprasit 
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.facebook.com/peerasakp"
           target="_blank"
-          rel="noopener noreferrer"
+          rel="Teacher P.Peerasak"
         >
-          Learn React
+          Link Facebook Contract
         </a>
       </header>
     </div>
