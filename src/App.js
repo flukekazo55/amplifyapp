@@ -10,7 +10,7 @@ function App() {
 		<h1>
           Subject 88832359-OS
         </h1>
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={photo_teacher} className="App-logo" alt="logo" />
 		<p>
           Hello Peerasak Pianprasit
         </p>
